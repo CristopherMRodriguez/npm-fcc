@@ -6,6 +6,7 @@
 	},
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp"],
+	"license": "HC Inc.",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
