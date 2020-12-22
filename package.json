@@ -2,9 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jesus",
 	"dependencies": {
-		"express": "^4.14.0",
-		"moment": "^2.10.2"
-	},
+		"express": "^4.14.0"
+		},
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp"],
 	"license": "HC Inc.",
